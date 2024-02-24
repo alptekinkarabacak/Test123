@@ -14,4 +14,7 @@ class zabada {
 
 };
 
+class zubada {
+};
+
 #endif //GIT_REPO_TEST_ANOTHER_TEST_HEADER_H
