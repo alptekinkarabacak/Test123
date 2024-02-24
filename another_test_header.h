@@ -9,4 +9,9 @@ class foobar {
 
 };
 
+
+class zabada {
+
+};
+
 #endif //GIT_REPO_TEST_ANOTHER_TEST_HEADER_H
